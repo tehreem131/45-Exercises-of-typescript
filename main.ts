@@ -1,8 +1,4 @@
 
-let myName: string = "Earic";
 
-console.log(myName.toLowerCase()); 
-console.log(myName.toUpperCase()); 
-console.log(myName.charAt(0).toUpperCase() + myName.slice(1)
-.toLowerCase()); 
-              
+console.log('Albert Einstein once said, “A person who never made a mistake never tried anything new.”');
+                  
