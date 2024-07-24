@@ -1,13 +1,16 @@
 {
-  "name": "assiment-2",
+  "name": "assiments-3",
   "version": "1.0.0",
-  "main": "index.js",
-  "type": "modules",
+  "main": "main.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.14.10"
+  }
 }
